@@ -5,8 +5,9 @@ I recently completed the 16 weeks intensive software enegineering program with M
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **[Acebook](https://github.com/BlessingUb/acebook-rails-template-simple)**                  | A webapp to do x. | React, Jest, etc. |
-| **Makers BNB**               | A webapp to do y. | Ruby              |
+| **[Acebook](https://github.com/BlessingUb/acebook-rails-template-simple)**                  | A facebook clone. | Ruby on Rails, Capybara, RSpec, Javascript, HTML, CSS |
+| **[Makers BNB](https://github.com/BlessingUb/Makers_Air_bnb)**               | A airbnb clone. | Ruby, Capybara, HTML, CSS              |
+| **[OnlyGifts](https://github.com/BlessingUb/work-social)**                  | A webapp  that allows friends to send token of appreciations(money) to one anaother  | MERN, Jest,ESLint |
 
 ## Work Experience
 
