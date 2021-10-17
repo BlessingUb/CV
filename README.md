@@ -53,5 +53,5 @@ _Digital Business Analyst_
 
 ## Contact
 
-- [CodeWars] (https://www.codewars.com/users/BlessingUb)
-- [Email] (ubogublessing@yahoo.com) 
+- [Blesing's CodeWars] (https://www.codewars.com/users/BlessingUb)
+- [My Email] (ubogublessing@yahoo.com) 
