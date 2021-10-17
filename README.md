@@ -1,6 +1,6 @@
 ## Blessing Ubogu
 
-I recently completed the 16 weeks intensive software enegineering program with Makers Academy, I have initiallly worked as a Business Analyst, more business oriented now hoping to be more technical and hands-on!
+I recently completed the 16 weeks intensive software enegineering program with Makers Academy, I have initiallly worked as a Business Analyst, more business oriented now training to be more technical and hands-on!
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
@@ -13,42 +13,12 @@ I recently completed the 16 weeks intensive software enegineering program with M
 **Moeserv Technical** (03/2018 - 12-2020)  
 _Agile Business Analyst_
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
 
 **Goodytex Consultancy** (10/2016 - 02/2017)  
 _Digital Business Analyst_
 
-- Any experience relevent to software development
 
 ## Skills
-
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-(Using a STAR example Paragraph) Consider the questions below.
-
--STAR
--What was the situation/task? (ST)
-
--How was the skill used?
-
--What did you do? (action)
-
--What was the result?
-
-
-#### This Skill
-
-- Experience
-- Achievements
-- Evidence (STAR)
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
 
 ## Education
 
@@ -83,4 +53,5 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Contact
 
-- CodeWars [Blessing](https://www.codewars.com/users/BlessingUb)
+- [CodeWars] (https://www.codewars.com/users/BlessingUb)
+- [Email] (ubogublessing@yahoo.com) 
