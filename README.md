@@ -10,7 +10,7 @@ I recently completed the 16 weeks intensive software enegineering program with M
 
 ## Work Experience
 
-**Moeserve Technical** (03/2018 - 12-2020)  
+**Moeserv Technical** (03/2018 - 12-2020)  
 _Agile Business Analyst_
 
 - Any experience, including roles and responsibilities and results achived in bullet point format.
