@@ -59,23 +59,28 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- RSpec, Jasmine, Jest
 
 #### Teesside University (02/2017 - 05-2018)
 
-- Petroleum Engineering
-- Distinction
+- Petroleum Engineering - Distinction
 
 #### Federal University of Petroleum Resources (2010 - 2015)
 
-- Petroleum and Natural Gas Engineering
-- First Class Honours
-
+ - Petroleum and Natural Gas Engineering - First Class Honours
 
 #### Any other qualifications
 
-That in some arguable way make you a better software developer or well-rounded person
+- BCS, Foundation Certificate in Business Analysis- 02/2019
+- Scrum Product Owner Accredited Certificate, SPOAC™ - International Scrum Institute. 05/2019
+- Scrum Master Accredited Certificate, SMAC™ - International Scrum Institute. 05/2019
+
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+- I love trying out new recipes
+
+
+## Contact
+
+- CodeWars [https://www.codewars.com/users/BlessingUb]
