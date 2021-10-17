@@ -5,8 +5,8 @@ I recently completed the 16 weeks intensive software enegineering program with M
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| **[Acebook](https://github.com/BlessingUb/acebook-rails-template-simple)**                  | A webapp to do x. | React, Jest, etc. |
+| **Makers BNB**               | A webapp to do y. | Ruby              |
 
 ## Work Experience
 
