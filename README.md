@@ -1,7 +1,6 @@
-## Your Name
+## Blessing Ubogu
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
-
+I recently completed the 16 weeks intensive software enegineering program with Makers Academy, I have initiallly worked as a Business Analyst, more business oriented now hoping to be more technical and hands-on!
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
@@ -11,13 +10,13 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Moeserve Technical** (03/2018 - 12-2020)  
+_Agile Business Analyst_
 
 - Any experience, including roles and responsibilities and results achived in bullet point format.
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Goodytex Consultancy** (10/2016 - 02/2017)  
+_Digital Business Analyst_
 
 - Any experience relevent to software development
 
@@ -53,7 +52,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (June 2021 - October 2021 )
 - Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
 - e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
 - you might also mention aspects some other skills/knowledge listed below: 
@@ -62,11 +61,16 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### Teesside University (02/2017 - 05-2018)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- Petroleum Engineering
+- Distinction
+
+#### Federal University of Petroleum Resources (2010 - 2015)
+
+- Petroleum and Natural Gas Engineering
+- First Class Honours
+
 
 #### Any other qualifications
 
