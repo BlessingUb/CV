@@ -83,4 +83,4 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Contact
 
-- CodeWars [https://www.codewars.com/users/BlessingUb]
+- CodeWars (https://www.codewars.com/users/BlessingUb)
