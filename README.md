@@ -1,4 +1,4 @@
-## Blessing Ubogu
+# Blessing Ubogu
 
 I recently completed the 16 weeks intensive software enegineering program with Makers Academy, I have initiallly worked as a Business Analyst, more business oriented now training to be more technical and hands-on!
 ## Projects
@@ -53,5 +53,5 @@ _Digital Business Analyst_
 
 ## Contact
 
-- [Blesing's CodeWars](https://www.codewars.com/users/BlessingUb)
+- [Blessing's CodeWars](https://www.codewars.com/users/BlessingUb)
 - [My Email](ubogublessing@yahoo.com) 
