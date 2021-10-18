@@ -5,21 +5,12 @@ I recently completed the 16 weeks intensive software engineering program with Ma
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **[Acebook](https://github.com/BlessingUb/acebook-rails-template-simple)**                  | A facebook clone. | Ruby on Rails, Capybara, RSpec, Javascript, HTML, CSS |
-| **[Makers BNB](https://github.com/BlessingUb/Makers_Air_bnb)**               | A airbnb clone. | Ruby, Capybara, HTML, CSS              |
-| **[OnlyGifts](https://github.com/BlessingUb/work-social)**                  | A webapp  that allows friends to send token of appreciations(money) to one anaother  | Tech stack
-JavaScript, MERN (MongoDB, Express, React, Node), MongoDB Atlas, Stripe API
+| **[Acebook](https://github.com/BlessingUb/acebook-rails-template-simple)**  | A facebook clone. | Ruby on Rails, Capybara, RSpec, Javascript, HTML, CSS |
+| **[Makers BNB](https://github.com/BlessingUb/Makers_Air_bnb)**    | A airbnb clone. | Ruby, Capybara, HTML, CSS              |
+| **[OnlyGifts](https://github.com/BlessingUb/work-social)** | A webapp  that allows friends to send token of appreciations(money) to one anaother  | JavaScript, MERN (MongoDB, Express, React, Node), MongoDB Atlas, Stripe API.  Testing -  Jest, Insomnia, cypress, Other Tools Miro, Trello ESLint |
+| **[Bank test](https://github.com/BlessingUb/bank-tech-test)** | A mock tech test simulating a bank in Ruby showcasing my skills such as OOP, TDD.  | Language - Ruby, Testing- RSpec|
+| **[Notebook](https://github.com/BlessingUb/NoteBook)**  | A single page app made using vanilla JS, a self-made testing framework. | JavaScript, CSS, HTML |
 
-Testing
-Jest, Insomnia
-
-Other Tools
-Miro, TrelloMERN, Jest,ESLint |
-| **[Bank test](https://github.com/BlessingUb/bank-tech-test)**                  | A mock tech test simulating a bank in Ruby showcasing my skills such as OOP, TDD.  | Language
-Ruby
-
-Testing
-RSpec|
 
 ## Work Experience
 
@@ -37,13 +28,24 @@ _Digital Business Analyst_
 ## Education
 
 #### Makers Academy (June 2021 - October 2021 )
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine, Jest
+- A 16-week intensive coding bootcamp for full stack web development
+  Languages: Ruby, JavaScript, SQL, HTML/CSS
+  Frameworks: Rails, MERN stack, RSpec, Jasmine, Jest
+  DBMS: PostgreSQL
+  Focus on:
+    - Clean code
+    - Agile/XP values
+    - Test Driven Development (TDD)
+    - Object-oriented programming (OOP)
+    - Model, View, Controller structure (MVC)
+    - Project planning (MVP, modelling, wireframes, collaboration tools)
+    - Self-directed learning
+    - Pair programming (240+ hours)
+    - Weekend challenges
+    - Feedback culture
+    - Holistic learning
+    - Mentoring
+
 
 #### Teesside University (02/2017 - 05-2018)
 
@@ -51,7 +53,12 @@ _Digital Business Analyst_
 
 #### Federal University of Petroleum Resources (2010 - 2015)
 
- - Petroleum and Natural Gas Engineering - First Class Honours
+ - Petroleum and Natural Gas Engineering - First Class Honours CGPA: 4.5/5.0
+
+#### Union Baptis Grammer School WASSCE (2003 - 2009)
+ - Physics(A1), Chemistry(A1), Geography(A1)
+ - Mathematics(A1), English(C4), Further Mathematics (C4)
+ - Biology(B2), Economics(A1)
 
 #### Any other qualifications
 
