@@ -1,6 +1,6 @@
 # Blessing Ubogu
 
-I recently completed the 16 weeks intensive software enegineering program with Makers Academy, I have initiallly worked as a Business Analyst, more business oriented now training to be more technical and hands-on!
+I recently completed the 16 weeks intensive software engineering program with Makers Academy, I have initiallly worked as a Business Analyst, more business oriented now training to be more technical and hands-on!
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
@@ -20,6 +20,7 @@ _Digital Business Analyst_
 
 
 ## Skills
+
 
 ## Education
 
