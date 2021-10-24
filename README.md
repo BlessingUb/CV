@@ -5,7 +5,8 @@ I recently completed the 16 weeks intensive software engineering program with Ma
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **[Bank test](https://github.com/BlessingUb/bank-tech-test)** | A mock tech test simulating a bank in Ruby showcasing my skills such as OOP, TDD. Solo work | Language - Ruby, Testing- RSpec|
+| **[Bank test](https://github.com/BlessingUb/bank-tech-test)** | Solo work on a mock tech test simulating a bank in Ruby showcasing my skills such as OOP, TDD.  | Language - Ruby, Testing- RSpec|
+| **[ChitterApp](https://github.com/BlessingUb/chitter)** | A solo task on creating a twitter clone | Ruby on Rails, Capybara, RSpec, Javascript, HTML, CSS, Testing- RSpec|
 | **[Acebook](https://github.com/BlessingUb/acebook-rails-template-simple)**  | A facebook clone. | Ruby on Rails, Capybara, RSpec, Javascript, HTML, CSS |
 | **[Makers BNB](https://github.com/BlessingUb/Makers_Air_bnb)**    | A airbnb clone. | Ruby, Capybara, HTML, CSS              |
 | **[OnlyGifts](https://github.com/BlessingUb/work-social)** | A webapp  that allows friends to send token of appreciations(money) to one anaother  | JavaScript, MERN (MongoDB, Express, React, Node), MongoDB Atlas, Stripe API.  Testing -  Jest, Insomnia, cypress, Other Tools Miro, Trello ESLint |
