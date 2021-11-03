@@ -1,6 +1,10 @@
 # Blessing Ubogu
 
-I recently completed the 16 weeks intensive software engineering program with Makers Academy, I have initiallly worked as a Business Analyst, more business oriented now training to be more technical and hands-on!
+[Summary](#summary) || [Projects](#projects) || [Experience](#experience) || [Skills](#skills) || [Education](#education) || [Interests](#interests)
+
+## Summary
+I am a Junior Software Engineer who recently completed the 16 weeks intensive software engineering program with Makers Academy, I have previously worked as a Business Analyst within an Agile environement for 3 years plus, which exposed me to the commercial side of tech. My academic background is Petroleum engineering(I was more into the softwares) and having worked within dev teams I decided to make a switch, trained and self-learnt to being more technical and hands-on!
+
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
@@ -13,11 +17,11 @@ I recently completed the 16 weeks intensive software engineering program with Ma
 | **[Notebook](https://github.com/BlessingUb/NoteBook)**  | A single page app made using vanilla JS, a self-made testing framework. | JavaScript, CSS, HTML |
 
 
-## Work Experience
+## Experience
 
 **Moeserv Technical** (03/2018 - 12-2020)  
 _Agile Business Analyst_
-
+-
 
 **Goodytex Consultancy** (10/2016 - 02/2017)  
 _Digital Business Analyst_
@@ -68,7 +72,7 @@ _Digital Business Analyst_
 - Scrum Master Accredited Certificate, SMAC™ - International Scrum Institute. 05/2019
 
 
-## Hobbies
+## Interests
 
 - I love trying out new recipes
 
