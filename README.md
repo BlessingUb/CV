@@ -3,7 +3,7 @@
 [Summary](#summary) || [Projects](#projects) || [Experience](#experience) || [Skills](#skills) || [Education](#education) || [Interests](#interests)
 
 ## Summary
-I am a Junior Software Engineer who recently completed the 16 weeks intensive software engineering program with Makers Academy, I have previously worked as a Business Analyst within an Agile environement for 3 years plus, which exposed me to the commercial side of tech. My academic background is Petroleum engineering(I was more into the softwares) and having worked within dev teams I decided to make a switch, trained and self-learnt to being more technical and hands-on!
+I am a Junior Software Engineer who recently completed the 16 weeks intensive software engineering program with Makers Academy, I have previously worked as a Business Analyst within an Agile environement for 3 years plus, which exposed me to the business side of tech. My academic background is Petroleum engineering(I was more into the softwares) and having worked within dev teams I decided to make a switch, trained and self-learnt to being more technical and hands-on!
 
 ## Projects
 
