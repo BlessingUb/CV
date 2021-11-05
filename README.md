@@ -3,7 +3,7 @@
 [Summary](#summary) || [Projects](#projects) || [Experience](#experience) || [Skills](#skills) || [Education](#education) || [Interests](#interests)
 
 ## Summary
-I am a Junior Software Engineer who recently completed the 16 weeks intensive software engineering program with Makers Academy, I have previously worked as a Business Analyst alongside Product Owners, Product/Project Managers role within an Agile environement for 3 years plus, which exposed me to the business side of tech. My academic background is Petroleum engineering(I was more into the softwares) and having worked within dev teams I decided to make a switch, trained and self-learnt to become more technical and hands-on!
+I am a Business Analyst with 3 years plus experience working alongside Product Owners, Product/Project Managers within an Agile environment and recently upskilled by completing the 16 weeks intensive software engineering program with Makers Academy. My previous exeperience exposed me into tech  however, I was more business oriented. Coming from an engineering academic background and having worked within dev teams I decided to make a switch, trained and self-learnt to become more technical and hands-on!
 
 ## Projects
 
@@ -21,8 +21,9 @@ I am a Junior Software Engineer who recently completed the 16 weeks intensive so
 
 **Moeserv Technical** (03/2018 - 12-2020)  
 _Agile Business Analyst_
-  - Worked on an AI chatbot and consumer messaging app that enabled the client to engage with their customers in a seamless, private, one to one and collaborative environment with full integration with their exisiting platform via text/audio. The messaging app makes API request to the centralised CRM and provided a personalised and customised experience for the end users, this led to an improvement in overall customer experience and the business   derived actionable insights from data to boost marketing efforts and investment.
-  - I was responsibile for creating the conversation flow for the bot, elicited requirements from stakeholders and fleshed out user stories from the epic created, created acceptance criteria for the dev team using Gherkins.
+  - Worked on an AI chatbot and consumer messaging app that enabled the client to engage with their customers in a seamless, private, one to one and collaborative environment with full integration with their exisiting platform via text/audio. 
+  - The product provided a personalised and customised experience for the end users, this led to an improvement in overall customer experience and the business   derived actionable insights from data to boost marketing efforts and investment.
+  - Created the conversation flow for the bot, elicited requirements from stakeholders and fleshed out user stories from the epics, created acceptance criteria for the dev team using Gherkins, this led to improved efficiency for the development team.
   - Mapped out customer journeys using Process flow diagrams to aid the visualisation of user needs, creating the As-Is and To-be Models with the product vision in mind
   - Modified large user stories into manageable increments for execution by the development team 
   - Translated the Business requirements into Functional and Non-Functional Requirements 
@@ -55,7 +56,7 @@ _Agile Business Analyst_
   - Mathematics(A1), English(C4), Further Mathematics (C4)
   - Biology(B2), Economics(A1)
 
-#### Any other qualifications
+#### Further qualifications
 
   - BCS, Foundation Certificate in Business Analysis- 02/2019
   - Scrum Product Owner Accredited Certificate, SPOAC™ - International Scrum Institute. 05/2019
@@ -72,8 +73,7 @@ _Agile Business Analyst_
 
 
 ## Interests
-- Love going to football game with my son 
-- I love trying out new recipes
+- I love trying out new recipes - 
 
 
 ## Contact
