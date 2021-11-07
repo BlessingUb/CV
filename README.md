@@ -21,8 +21,8 @@ I am a Business Analyst with 3 years plus experience working alongside Product O
 
 Moeserv Technical (March 2018 - December 2020)   
 _Agile Business Analyst_
-  - Collaborated within a cross functional team on an AI chatbot and consumer messaging app that enabled the client to engage with their customers in a seamless, private, one to one and collaborative environment with full integration with their exisiting platform via text/audio. 
-  - The product provided a personalised and customised experience for the end users, this led to an improvement in overall customer experience and the business   derived actionable insights from data to boost marketing efforts and investment.
+  - Collaborated within a cross-functional team on digital, business transformation and innovation ideas, delivered on  user experience projects, software delivery, web and mobile applications, payment automation, booking platforms, salesforce CRM implementation, system changes, process re-engineering and digital products  across clients' portfolio
+  - Worked on products  that provided personalised and customised customer experience for the end users, led to an improvement in overall customer experience and the business derived actionable insights from data to boost marketing efforts and investment.
   -  Created and designed the conversation flow for the chatbot and fleshed out user stories from the epics using the SMART & INVEST criteria, created acceptance criteria for the dev team using Gherkins, which led to an improved efficiency for the development team.
   - Mapped out customer journeys using Process flow diagrams to aid the visualisation of user needs, created the As-Is and To-be Models with the product vision in mind which aided investigation to see areas that can be improved
   - Modified large user stories into manageable increments for execution by the development team, this increaed the team's throughput and helped reduced risks of not delivering a shippable product at the end of the sprint.
