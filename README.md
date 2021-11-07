@@ -19,7 +19,7 @@ I am a Business Analyst with 3 years plus experience working alongside Product O
 
 ## Experience
 
-**Moeserv Technical (March 2018 - December 2020) **  
+Moeserv Technical (March 2018 - December 2020)   
 _Agile Business Analyst_
   - Collaborated within a cross functional team on an AI chatbot and consumer messaging app that enabled the client to engage with their customers in a seamless, private, one to one and collaborative environment with full integration with their exisiting platform via text/audio. 
   - The product provided a personalised and customised experience for the end users, this led to an improvement in overall customer experience and the business   derived actionable insights from data to boost marketing efforts and investment.
