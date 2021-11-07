@@ -1,13 +1,13 @@
 # Blessing Ubogu
 
-[Summary](#summary) || [Projects](#projects) || [Experience](#experience) || [Skills](#skills) || [Education](#education) || [Interests](#interests)
+[Summary](#summary) || [Projects](#projects) || [Experience](#experience) || [Education](#education) || [Interests](#interests)
 
 ## Summary
-I am a Business Analyst with 3 years plus experience working alongside Product Owners, Product/Project Managers within an Agile environment and recently upskilled by completing the 16 weeks intensive software engineering program with Makers Academy. My previous exeperience exposed me into tech  however, I was more business oriented. Coming from an engineering academic background and having worked within dev teams I decided to make a switch, trained and self-learnt to become more technical and hands-on!
+I am a Business Analyst with 3 years plus experience working alongside Product Owners, Product/Project Managers within an Agile environment and recently upskilled by completing the 16 weeks intensive software engineering program with Makers Academy. My previous experience exposed me into tech  however, I was more business oriented. Coming from an engineering academic background and having worked within dev teams I decided to make a switch, trained and self-learnt to become more technical and hands-on! I am looking for Junior Software engineer/developer role where I can continue to learn new technologies, develop on my existing knowledge and channel my creativity and problem solving skills onto creating software apllications that users will love to use.
 
 ## Projects
 
-| Name                         | Description       | Tech/tools        |
+| Name                         | Description       | Tech/Tools        | 
 | ---------------------------- | ----------------- | ----------------- |
 | **[Bank test](https://github.com/BlessingUb/bank-tech-test)** | Solo work on a mock tech test simulating a bank in Ruby showcasing my skills such as OOP, TDD.  | Language - Ruby, Testing- RSpec|
 | **[ChitterApp](https://github.com/BlessingUb/chitter)** | A solo task on creating a twitter clone | Ruby on Rails, Capybara, RSpec, Javascript, HTML, CSS, Testing- RSpec|
@@ -19,15 +19,18 @@ I am a Business Analyst with 3 years plus experience working alongside Product O
 
 ## Experience
 
-**Moeserv Technical** (03/2018 - 12-2020)  
+**Moeserv Technical (March 2018 - December 2020) **  
 _Agile Business Analyst_
-  - Worked on an AI chatbot and consumer messaging app that enabled the client to engage with their customers in a seamless, private, one to one and collaborative environment with full integration with their exisiting platform via text/audio. 
+  - Collaborated within a cross functional team on an AI chatbot and consumer messaging app that enabled the client to engage with their customers in a seamless, private, one to one and collaborative environment with full integration with their exisiting platform via text/audio. 
   - The product provided a personalised and customised experience for the end users, this led to an improvement in overall customer experience and the business   derived actionable insights from data to boost marketing efforts and investment.
-  - Created the conversation flow for the bot, elicited requirements from stakeholders and fleshed out user stories from the epics, created acceptance criteria for the dev team using Gherkins, this led to improved efficiency for the development team.
-  - Mapped out customer journeys using Process flow diagrams to aid the visualisation of user needs, creating the As-Is and To-be Models with the product vision in mind
-  - Modified large user stories into manageable increments for execution by the development team 
-  - Translated the Business requirements into Functional and Non-Functional Requirements 
-  - Developed personas, use cases, workflow, and screen mock-ups, prototypes for the interface
+  -  Created and designed the conversation flow for the chatbot and fleshed out user stories from the epics using the SMART & INVEST criteria, created acceptance criteria for the dev team using Gherkins, which led to an improved efficiency for the development team.
+  - Mapped out customer journeys using Process flow diagrams to aid the visualisation of user needs, created the As-Is and To-be Models with the product vision in mind which aided investigation to see areas that can be improved
+  - Modified large user stories into manageable increments for execution by the development team, this increaed the team's throughput and helped reduced risks of not delivering a shippable product at the end of the sprint.
+  - Facilitated workshops, conducted brainstroming session, one-to-one interviews to elicit and gather requirement from stakeholders, created scenarios to ensure solutions were aligned with business strategies
+  - Translated the Business requirements into Functional and Non-Functional Requirements
+  - Developed personas, use cases, workflow, and screen mock-ups, prototypes for the user interface to aid effective commucination among varied stakeholders
+  - Resolved requirements conflict within a team to ensure what is being built matches with specification, delivered SMART requirements which aided and improved the development process for the development team
+  - Solicited and negotiated sign-off for documents and served as the link between the technical and business teams
 
 ## Education
 
@@ -62,21 +65,12 @@ _Agile Business Analyst_
   - Scrum Product Owner Accredited Certificate, SPOAC™ - International Scrum Institute. 05/2019
   - Scrum Master Accredited Certificate, SMAC™ - International Scrum Institute. 05/2019
 
-## Skills
-- Attention to details:
-- Quick Learning:
-- Problem solving: 
-- Effective communication & Team spirit
-- Self-driven and Determination: 
-
-
-
 
 ## Interests
-- I love trying out new recipes - 
-
+- Cooking - I enjoy trying out new recipes, recently tried Korean-style lamb chops with spicy sesame cucumber salad from [_tattedchef](https://www.instagram.com/_tattedchef/)
+- I enjoy Sci-Fi films
 
 ## Contact
-
+- [LinkedIn](https://www.linkedin.com/in/blessing-tosin/)
 - [Blessing's CodeWars](https://www.codewars.com/users/BlessingUb)
 - [My Email](ubogublessing@yahoo.com) 
