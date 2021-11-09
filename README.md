@@ -19,7 +19,7 @@ I am a Business Analyst with 3 years plus experience working alongside Product O
 
 ## Experience
 
-Moeserv Technical (March 2018 - December 2020)   
+Moeserv Technical (April 2018 - December 2020)   
 _Agile Business Analyst_
   - Collaborated within a cross-functional team on digital, business transformation and innovation ideas, delivered on  user experience projects, software delivery, web and mobile applications, payment automation, booking platforms, salesforce CRM implementation, system changes, process re-engineering and digital products  across clients' portfolio
   - Worked on products  that provided personalised and customised customer experience for the end users, led to an improvement in overall customer experience and the business derived actionable insights from data to boost marketing efforts and investment.
@@ -46,7 +46,7 @@ _Agile Business Analyst_
     - Use of GitHub (PRs, code reviews, CI services)
 
 
-#### Teesside University (02/2017 - 05-2018)
+#### Teesside University (Feb 2017 - April 2018)
 
   - Petroleum Engineering - Distinction
 
