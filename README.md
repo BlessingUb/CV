@@ -3,18 +3,16 @@
 [Summary](#summary) || [Projects](#projects) || [Experience](#experience) || [Education](#education) || [Interests](#interests)
 
 ## Summary
-I am a Business Analyst with 3 years plus experience working alongside Product Owners, Product/Project Managers within an Agile environment and recently upskilled by completing the 16 weeks intensive software engineering program with Makers Academy. My previous experience exposed me into tech  however, I was more business oriented. Coming from an engineering academic background and having worked within dev teams I decided to make a switch, trained and self-learnt to become more technical and hands-on! I am looking for Junior Software engineer/developer role where I can continue to learn new technologies, develop on my existing knowledge and channel my creativity and problem solving skills onto creating software apllications that users will love to use.
+A Junior Developer with 3 years experience as a Business Analyst within an Agile environment. With my previous role exposing me into tech I got really inspired to up-skill and learn to build software application. I am looking for a role where I can continue to learn new technologies, develop on my existing knowledge and channel my creativity and problem- solving skills onto creating software applications that users will love to use..
 
 ## Projects
+For a complete list of my projects, check my <a href= "https://github.com/BlessingUb?tab=repositories">GitHub Repo</a>.
 
 | Name                         | Description       | Tech/Tools        | 
 | ---------------------------- | ----------------- | ----------------- |
 | **[Bank test](https://github.com/BlessingUb/bank-tech-test)** | Solo work on a mock tech test simulating a bank in Ruby showcasing my skills such as OOP, TDD.  | Language - Ruby, Testing- RSpec|
 | **[ChitterApp](https://github.com/BlessingUb/chitter)** | A solo task on creating a twitter clone | Ruby on Rails, Capybara, RSpec, Javascript, HTML, CSS, Testing- RSpec|
 | **[Acebook](https://github.com/BlessingUb/acebook-rails-template-simple)**  | A facebook clone. | Ruby on Rails, Capybara, RSpec, Javascript, HTML, CSS |
-| **[Makers BNB](https://github.com/BlessingUb/Makers_Air_bnb)**    | A airbnb clone. | Ruby, Capybara, HTML, CSS              |
-| **[OnlyGifts](https://github.com/BlessingUb/work-social)** | A webapp  that allows friends to send token of appreciations(money) to one anaother  | JavaScript, MERN (MongoDB, Express, React, Node), MongoDB Atlas, Stripe API.  Testing -  Jest, Insomnia, cypress, Other Tools Miro, Trello ESLint |
-| **[Notebook](https://github.com/BlessingUb/NoteBook)**  | A single page app made using vanilla JS, a self-made testing framework. | JavaScript, CSS, HTML |
 
 
 ## Experience
@@ -31,44 +29,63 @@ _Agile Business Analyst_
   - Developed personas, use cases, workflow, and screen mock-ups, prototypes for the user interface to aid effective commucination among varied stakeholders
   - Resolved requirements conflict within a team to ensure what is being built matches with specification, delivered SMART requirements which aided and improved the development process for the development team
   - Solicited and negotiated sign-off for documents and served as the link between the technical and business teams
+  - Tools Used: Ms Word, PowerPoint, Excel, MS Visio, Tableau, Trello, Basecamp, Smaply, Atlasssian JIRA,
+Confluence, Google Analytics
+   
 
 ## Education
+**Software Development Bootcamp** || **Makers Academy**
+(June 2021 - October 2021 )
 
-#### Makers Academy (June 2021 - October 2021 )
-- A 16-week intensive coding bootcamp for full stack web development
+
+A 16-week intensive coding bootcamp for full stack web development
   Languages: Ruby, JavaScript, SQL, HTML/CSS
   Frameworks: Rails, MERN stack, RSpec, Jasmine, Jest
   DBMS: PostgreSQL
+  
     - Quickly learnt new technologies and delivered four projects using different tech stacks, produced clean, high-quality code
     - Improved and incorporated Agile and XP values methodology, within fast paced Test Driven Development (TDD) environment
-    - Focused learning on Object-oriented programming (OOP), Model, View, Controller structure (MVC), Self-directed learning with over 204 hours of Pair programming
+    - Focused learning on Object-oriented programming (OOP), Model, View, Controller structure (MVC)
+    - Self-directed learning with over 204 hours of Pair programming
     - Project planning (MVP, modelling, wireframes, collaboration tools-Trello, Miro)
     - Use of GitHub (PRs, code reviews, CI services)
 
 
-#### Teesside University (Feb 2017 - April 2018)
+**Msc. Petroleum Engineering** || **Teesside University**
+(Feb 2017 - April 2018)
+Distinction
 
-  - Petroleum Engineering - Distinction
+**B.Eng Petroleum and Natural Gas Engineering** || **Federal University of Petroleum Resources**
+(2010 - 2015)
+First Class Honours CGPA: 4.5/5.0
 
-#### Federal University of Petroleum Resources (2010 - 2015)
-
-  - Petroleum and Natural Gas Engineering - First Class Honours CGPA: 4.5/5.0
-
-#### Union Baptis Grammer School WASSCE (2003 - 2009)
-  - Physics(A1), Chemistry(A1), Geography(A1)
-  - Mathematics(A1), English(C4), Further Mathematics (C4)
-  - Biology(B2), Economics(A1)
+**STEM Student** || **Union Baptis Grammer School WASSCE**
+(2003 - 2009)
+Physics(A1), Chemistry(A1), Geography(A1), Mathematics(A1),English(C4), Further Mathematics (C4), Biology(B2), Economics(A1)
 
 #### Further qualifications
+- **BCS, Foundation Certificate in Business Analysis- 02/2019**
+- **Scrum Product Owner Accredited Certificate, SPOAC™ - International Scrum Institute. 05/2019**
+- **Scrum Master Accredited Certificate, SMAC™ - International Scrum Institute. 05/2019**
+ 
 
-  - BCS, Foundation Certificate in Business Analysis- 02/2019
-  - Scrum Product Owner Accredited Certificate, SPOAC™ - International Scrum Institute. 05/2019
-  - Scrum Master Accredited Certificate, SMAC™ - International Scrum Institute. 05/2019
+## Skills
+**Communicator**
+In my previous role, I worked within a cross functional team, which means i had to collaborate and communiciate effectively with different stakeholders of varied business and technical know-how. This involved one-to-one interview sessions, brainstorming workshops that required asking the right questions to stakeholders to understand their current processes and problems and to be able to gather their requirement(both tacit and non-tacit requirements) for any new features. 
+
+During my time at Makers I was able to apply this skill during pairing sessions where effective commmunciation was essential for a great outcome of our work together. I further improved my ability to ask the right and open ended questions to maintiam a collaborative environement.
+
+**Problem Solver**
+**Analytical**
+**Thrive under Pressure**
+**Strategist**
 
 
 ## Interests
 - Cooking - I enjoy trying out new recipes, recently tried Korean-style lamb chops with spicy sesame cucumber salad from [_tattedchef](https://www.instagram.com/_tattedchef/)
+- I enjoy reading and writing, I have an instagram page where i'm honing my skills on creative writing about my life.
 - I enjoy Sci-Fi films
+
 
 ## Contact
 - [LinkedIn](https://www.linkedin.com/in/blessing-tosin/)
