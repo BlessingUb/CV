@@ -70,15 +70,21 @@ Physics(A1), Chemistry(A1), Geography(A1), Mathematics(A1),English(C4), Further 
  
 
 ## Skills
-**Communicator**
-In my previous role, I worked within a cross functional team, which means i had to collaborate and communiciate effectively with different stakeholders of varied business and technical know-how. This involved one-to-one interview sessions, brainstorming workshops that required asking the right questions to stakeholders to understand their current processes and problems and to be able to gather their requirement(both tacit and non-tacit requirements) for any new features. 
-
+- **Communicator**:
+In my previous role, I worked within a cross functional team, which means i had to collaborate, communiciate effectively and act as the liaison among and with different stakeholders of varied business and technical know-how. This involved one-to-one interview sessions, brainstorming workshops that required asking the right questions to stakeholders to understand their current processes and problems and to be able to gather their requirement(both tacit and non-tacit requirements) for any new features. 
 During my time at Makers I was able to apply this skill during pairing sessions where effective commmunciation was essential for a great outcome of our work together. I further improved my ability to ask the right and open ended questions to maintiam a collaborative environement.
 
-**Problem Solver**
-**Analytical**
-**Thrive under Pressure**
-**Strategist**
+
+- **Problem Solver**: Over the years of my experiences, my objective has always being to solve problems, when things do not work the way they should, it provides me an opportunity to analyze symptoms of a problem, identify what's wrong and find the solution. This skill have being very useful for me in my career. One of the projects I worked on, was Data Hack to improve customer experience and service delivery using data generated from the client's business activities.Teams were required to define a problem that can be validated from  the data, propose a solution that is backed by the datasets, thereafter map the process and design a protoype. As the Business Analyst on the team, I elicited requirements and translated them to technical specifications, managed the brainstorming workshop, collabroated with the data scientist and UI designer within a very limited timeframe, I pitched the solution to the stakeholders panel. My team's proposed solution was second and my work was recognised. 
+During Makers this skills has come very handy during pairing and individal task, I am always the calm one during debugging, I take the time to analyse the stack message and identify where the bug is and recommned probale way to go about solving the problem or the bug. During my final project, due to pressure the team had new features breaking other old feature on our application, I took the time to actually fix the code base to its normal functioning state.
+
+- **Analytical**:
+In my previuos roles, as a research Assistant and also as a Business analyst, I had gained and developed the ability to deconstruct information into smaller categories in order to draw conclusions. These roles required producing reports, interpreting data to provide insights and drawing inferences from data/nformation provided or researched. I resolved requirements conflict within my team by breaking down the requirement into smaller user stories using the SMART criteria which aided and improved the development process for the development team.
+In Makers, this skill was very useful during the planning and designing stage, in concluding on the MVP for the application that is being built. Also during debugging, I find being able to break down the problems into smaller bits helps me to solve the problem. Moreso, being analytical has improved my TDD process, by thinking about smaller chunks of the functionality at a time rather than the application as a whole, which makes it easy to identify redundant code, detect and eliminate unnecessary development tasks.
+
+- **Thrive under Pressure**-
+Working in an agile environment means working in a pressured environment to deliver,
+- **Strategist**
 
 
 ## Interests
