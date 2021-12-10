@@ -3,7 +3,7 @@
 [Summary](#summary) || [Projects](#projects) || [Experience](#experience) || [Education](#education) || [Interests](#interests)
 
 ## Summary
-A Junior Developer with 3 years experience as a Business Analyst within an Agile environment. With my previous role exposing me into tech I got really inspired to up-skill and learn to build software application. I am looking for a role where I can continue to learn new technologies, develop on my existing knowledge and channel my creativity and problem- solving skills onto creating software applications that users will love to use..
+A Junior Developer with 3 years experience as a data-driven Business Analyst within an Agile environment. With my previous role exposing me into tech I got really inspired to up-skill and learn to build software application. I am looking for a role where I can continue to learn new technologies, develop on my existing knowledge and channel my creativity and problem- solving skills onto creating software applications that users will love to use..
 
 ## Projects
 For a complete list of my projects, check my <a href= "https://github.com/BlessingUb?tab=repositories">GitHub Repo</a>.
@@ -15,7 +15,7 @@ For a complete list of my projects, check my <a href= "https://github.com/Blessi
 | **[Acebook](https://github.com/BlessingUb/acebook-rails-template-simple)**  | A facebook clone. | Ruby on Rails, Capybara, RSpec, Javascript, HTML, CSS |
 
 
-## Experience
+## Relevant Work Experience
 
 Moeserv Technical (April 2018 - December 2020)   
 _Agile Business Analyst_
