@@ -19,9 +19,9 @@ For a complete list of my projects, check my <a href= "https://github.com/Blessi
 
 Moeserv Technical (April 2018 - December 2020)   
 _Agile Business Analyst_
-  - Collaborated within a cross-functional team on digital, business transformation and innovation ideas, delivered on  user experience projects, software delivery, web and mobile applications, payment automation, booking platforms, salesforce CRM implementation, system changes, process re-engineering and digital products  across clients' portfolio
+  - Collaborated within a cross-functional team on digital, business transformation and innovation ideas, delivered on  user experience projects, software delivery, web applications, payment automation, booking platforms, CRM implementation, system changes, process re-engineering and digital products  across clients' portfolio
   - Worked on products  that provided personalised and customised customer experience for the end users, led to an improvement in overall customer experience and the business derived actionable insights from data to boost marketing efforts and investment.
-  -  Created and designed the conversation flow for the chatbot and fleshed out user stories from the epics using the SMART & INVEST criteria, created acceptance criteria for the dev team using Gherkins, which led to an improved efficiency for the development team.
+  -  Created and designed the conversation flow for chatbot(virtual assistant) and fleshed out user stories from the epics using the SMART & INVEST criteria, created acceptance criteria for the dev team using Gherkins, which led to an improved efficiency for the development team.
   - Mapped out customer journeys using Process flow diagrams to aid the visualisation of user needs, created the As-Is and To-be Models with the product vision in mind which aided investigation to see areas that can be improved
   - Modified large user stories into manageable increments for execution by the development team, this increaed the team's throughput and helped reduced risks of not delivering a shippable product at the end of the sprint.
   - Facilitated workshops, conducted brainstroming session, one-to-one interviews to elicit and gather requirement from stakeholders, created scenarios to ensure solutions were aligned with business strategies
@@ -29,8 +29,7 @@ _Agile Business Analyst_
   - Developed personas, use cases, workflow, and screen mock-ups, prototypes for the user interface to aid effective commucination among varied stakeholders
   - Resolved requirements conflict within a team to ensure what is being built matches with specification, delivered SMART requirements which aided and improved the development process for the development team
   - Solicited and negotiated sign-off for documents and served as the link between the technical and business teams
-  - Tools Used: Ms Word, PowerPoint, Excel, MS Visio, Tableau, Trello, Basecamp, Smaply, Atlasssian JIRA,
-Confluence, Google Analytics
+  - Tools Used: Ms Word, PowerPoint, Excel, MS Visio, Tableau, Trello, Basecamp, Smaply, Atlasssian JIRA, Confluence, Google Analytics
    
 
 ## Education
@@ -82,14 +81,15 @@ During Makers this skills has come very handy during pairing and individal task,
 In my previuos roles, as a research Assistant and also as a Business analyst, I had gained and developed the ability to deconstruct information into smaller categories in order to draw conclusions. These roles required producing reports, interpreting data to provide insights and drawing inferences from data/nformation provided or researched. I resolved requirements conflict within my team by breaking down the requirement into smaller user stories using the SMART criteria which aided and improved the development process for the development team.
 In Makers, this skill was very useful during the planning and designing stage, in concluding on the MVP for the application that is being built. Also during debugging, I find being able to break down the problems into smaller bits helps me to solve the problem. Moreso, being analytical has improved my TDD process, by thinking about smaller chunks of the functionality at a time rather than the application as a whole, which makes it easy to identify redundant code, detect and eliminate unnecessary development tasks.
 
-- **Thrive under Pressure**-
+- **Thrive under Pressure**:
 Working in an agile environment means working in a pressured environment to deliver,
 - **Strategist**
 
 
 ## Interests
 - Cooking - I enjoy trying out new recipes, recently tried Korean-style lamb chops with spicy sesame cucumber salad from [_tattedchef](https://www.instagram.com/_tattedchef/)
-- I enjoy reading and writing, I have an instagram page where i'm honing my skills on creative writing about my life.
+- I enjoy reading and writing, I run an instagram page where i'm honing my skills on creative writing and story-telling on my life.
+- I play Badminton (belong to a local group in my community)
 - I enjoy Sci-Fi films
 
 
