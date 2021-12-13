@@ -19,15 +19,17 @@ For a complete list of my projects, check my <a href= "https://github.com/Blessi
 
 Moeserv Technical (April 2018 - December 2020)   
 _Agile Business Analyst_
-  - Collaborated within a cross-functional team on digital, business transformation and innovation ideas, delivered on  user experience projects, software delivery, web applications, payment automation, booking platforms, CRM implementation, system changes, process re-engineering and digital products  across clients' portfolio
-  - Worked on products  that provided personalised and customised customer experience for the end users, led to an improvement in overall customer experience and the business derived actionable insights from data to boost marketing efforts and investment.
-  -  Created and designed the conversation flow for chatbot(virtual assistant) and fleshed out user stories from the epics using the SMART & INVEST criteria, created acceptance criteria for the dev team using Gherkins, which led to an improved efficiency for the development team.
-  - Mapped out customer journeys using Process flow diagrams to aid the visualisation of user needs, created the As-Is and To-be Models with the product vision in mind which aided investigation to see areas that can be improved
-  - Modified large user stories into manageable increments for execution by the development team, this increaed the team's throughput and helped reduced risks of not delivering a shippable product at the end of the sprint.
-  - Facilitated workshops, conducted brainstroming session, one-to-one interviews to elicit and gather requirement from stakeholders, created scenarios to ensure solutions were aligned with business strategies
+  - Collaborated within a cross-functional team on digital, business transformation and innovation ideas, delivered on user experience projects, software delivery, web applications, payment automation, system changes, process re-engineering and data driven digital products across clients' portfolio
+  - Worked on products  that provided personalised and customised customer experience for the end users, led to an 35% increase in overall customer experience and business derived actionable insights from data to boost marketing efforts and investment.
+  - Created and designed the conversation flow for chatbot(virtual assistant) and fleshed out user stories from the epics using the SMART & INVEST criteria,
+  - Created acceptance criteria for the dev team using Gherkins, which led to improved efficiency for the development team.
+  - Mapped out customer journeys using Process flow diagrams which aid the visualisation of users current pain-points and the gaps across the customer journeys
+  - Created the As-Is and To-be Models with the product vision in mind,helped identify gaps that needed to be bridged within their business porcesses 
+  - Modified large user stories into manageable increments for execution by the development team, this increased the team's throughput and helped reduced risks of not delivering a shippable product at the end of the sprint.
+  - Facilitated workshops, conducted brainstroming session, one-to-one interviews to elicit and gather requirement from stakeholders, mediating between technicial and business teams, flow of information among teams were improved
   - Translated the Business requirements into Functional and Non-Functional Requirements
-  - Developed personas, use cases, workflow, and screen mock-ups, prototypes for the user interface to aid effective commucination among varied stakeholders
-  - Resolved requirements conflict within a team to ensure what is being built matches with specification, delivered SMART requirements which aided and improved the development process for the development team
+  - Developed personas, use cases, workflow, and screen mock-ups, prototypes for the user interface to aid effective communication among varied stakeholders
+  - Resolved requirements conflict within my team to ensure what is being built matches with specification, delivered SMART requirements which aided and improved the development process for the development team
   - Solicited and negotiated sign-off for documents and served as the link between the technical and business teams
   - Tools Used: Ms Word, PowerPoint, Excel, MS Visio, Tableau, Trello, Basecamp, Smaply, Atlasssian JIRA, Confluence, Google Analytics
    
