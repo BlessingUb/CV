@@ -84,7 +84,7 @@ During Makers this skills has come very handy during pairing and individal task,
 
 - **Analytical**:
 
-In my previuos roles, as a research Assistant and also as a Business analyst, I had gained and developed the ability to deconstruct information into smaller categories in order to draw conclusions. These roles required producing reports, interpreting data to provide insights and drawing inferences from data/nformation provided or researched. I resolved requirements conflict within my team by breaking down the requirement into smaller user stories using the SMART criteria which aided and improved the development process for the development team.
+In my previuos roles, as a research Assistant and also as a Business analyst, I had gained and developed the ability to deconstruct information into smaller categories in order to draw conclusions. These roles required producing reports, interpreting data to provide insights and drawing inferences from data/nformation provided or researched. I resolved requirements conflict within my team by breaking down the requirement into smaller user stories using the SMART criteria which improved and increased velocity of the development process for the development team.
 
 In Makers, this skill was very useful during the planning and designing stage, in concluding on the MVP for the application that is being built. Also during debugging, I find being able to break down the problems into smaller bits helps me to solve the problem. Moreso, being analytical has improved my TDD process, by thinking about smaller chunks of the functionality at a time rather than the application as a whole, which makes it easy to identify redundant code, detect and eliminate unnecessary development tasks.
 
