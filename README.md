@@ -20,7 +20,7 @@ For a complete list of my projects, check my <a href= "https://github.com/Blessi
 Moeserv Technical (April 2018 - December 2020)   
 _Agile Business Analyst_
   - Collaborated within a cross-functional team on digital, business transformation and innovation ideas, delivered on user experience projects, software delivery, web applications, payment automation, system changes, process re-engineering and data driven digital products across clients' portfolio
-  - Worked on products  that provided personalised and customised customer experience for the end users, led to an 35% increase in overall customer experience and business derived actionable insights from data to boost marketing efforts and investment.
+  - Worked on products  that provided personalised and customised customer experience for the end users, led to 35% increase in overall customer experience three months post-implementation and business derived actionable insights from data to boost marketing efforts and investment.
   - Created and designed the conversation flow for chatbot(virtual assistant) and fleshed out user stories from the epics using the SMART & INVEST criteria,
   - Created acceptance criteria for the dev team using Gherkins, which led to improved efficiency for the development team.
   - Mapped out customer journeys using Process flow diagrams which aid the visualisation of users current pain-points and the gaps across the customer journeys
