@@ -106,6 +106,5 @@ In Makers, during the final project, my team had two weeks to come up with a wor
 
 
 ## Contact
-- [LinkedIn](https://www.linkedin.com/in/blessing-tosin/)
 - [Blessing's CodeWars](https://www.codewars.com/users/BlessingUb)
 - [My Email](ubogublessing@yahoo.com) 
