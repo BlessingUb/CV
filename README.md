@@ -3,7 +3,7 @@
 [Summary](#summary) || [Projects](#projects) || [Experience](#experience) || [Education](#education) || [Interests](#interests)
 
 ## Summary
-A Junior Developer with 3 years plus experience as a data-driven customer centric Business Analyst within an Agile environment. With my previous role exposing me into tech I got really inspired to up-skill and learn to build software application. I am looking for a role where I can be hands-on, continue to learn new technologies, develop on my existing knowledge and channel my creativity and problem- solving skills onto creating software applications that will solve reall life issue and that users will love to use.
+A Junior FullStack Engineer with 3 years experience as a data-driven customer centric Business Analyst within an Agile environment. With my previous role exposing me into tech I got really inspired to up-skill and learn to build and maintain software applications. I am looking for a role where I can be hands-on, continue to learn new technologies, develop on my existing knowledge and channel my creativity and problem- solving skills onto creating and maintaining software applications that will solve real life issues and that users will love to use.
 
 ## Projects
 For a complete list of my projects, check my <a href= "https://github.com/BlessingUb?tab=repositories">GitHub Repo</a>.
