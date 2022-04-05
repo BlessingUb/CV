@@ -12,7 +12,7 @@ For a complete list of my projects, check my <a href= "https://github.com/Blessi
 | ---------------------------- | ----------------- | ----------------- |
 | **[Bank test](https://github.com/BlessingUb/bank-tech-test)** | Solo work on a mock tech test simulating a bank in Ruby showcasing my skills such as OOP, TDD.  | Language - Ruby, Testing- RSpec|
 | **[ChitterApp](https://github.com/BlessingUb/chitter)** | A solo task on creating a twitter clone | Ruby on Rails, Capybara, RSpec, Javascript, HTML, CSS, Testing- RSpec|
-| **[Acebook](https://github.com/BlessingUb/acebook-rails-template-simple)**  | A facebook clone. | Ruby on Rails, Capybara, RSpec, Javascript, HTML, CSS |
+| **[Acebook](https://github.com/BlessingUb/acebook-rails-template-simple)**  | A facebook clone. [Deployed here](https://young-plains-56373.herokuapp.com/)| Ruby on Rails, Capybara, RSpec, Javascript, HTML, CSS |
 
 
 ## Relevant Work Experience
