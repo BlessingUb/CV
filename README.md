@@ -10,14 +10,39 @@ For a complete list of my projects, check my <a href= "https://github.com/Blessi
 
 | Name                         | Description       | Tech/Tools        | 
 | ---------------------------- | ----------------- | ----------------- |
+| **[GoalTrackerApp](https://github.com/BlessingUb/GoalTrackerApp)** | A solo task on building a goal tracker app | Ruby on Rails(API), React, RSpec, Jest,  CSS, Bootstrap,Postgresql, Testing- RSpec, Jest, Enzymes|
+| **[Acebook](https://github.com/BlessingUb/Acebook)**  | A facebook clone. [Deployed here](https://young-plains-56373.herokuapp.com/)| Ruby on Rails, Capybara, RSpec, Javascript, HTML, CSS |
 | **[Bank test](https://github.com/BlessingUb/bank-tech-test)** | Solo work on a mock tech test simulating a bank in Ruby showcasing my skills such as OOP, TDD.  | Language - Ruby, Testing- RSpec|
 | **[OnlyGift](https://github.com/BlessingUb/Onlygifts)**  | A webapp that allows friends to send token of appreciations(money) to one another with integrated Stripe API for payment| JavaScript, MERN (MongoDB, Express, React, Node), Stripe API.Testing- Jest, Insomnia, cypress, Other Tools Miro, Trello ESLint |
-| **[Acebook](https://github.com/BlessingUb/Acebook)**  | A facebook clone. [Deployed here](https://young-plains-56373.herokuapp.com/)| Ruby on Rails, Capybara, RSpec, Javascript, HTML, CSS |
 | **[ChitterApp](https://github.com/BlessingUb/chitter)** | A solo task on creating a twitter clone | Ruby on Rails, Capybara, RSpec, Javascript, HTML, CSS, Testing- RSpec|
 
 
 
 ## Relevant Work Experience
+
+Redgate Softwares Cambridge - 25th April 2022 - 28th April 2022 (1 week work experience) 
+
+_Software Engineer_
+
+I attended different meetings that have given me a better insight on Redgate products, how the teams achieve everything to a high standard and learnt about the different roles within the teams and how they carryout some of  their works.  
+- Collaborated with 4 Engineers on the Data Maskers and SQL Data Catalog products 
+- Tech stack used was .NET/C#, ASP.NET, SqlServer, I quickly picked on the language used(c#) as I had used Java before and had an understanding on what the codes were doing.
+- Added a test infrastructure that allow code sharing between two engines 
+- Extracted tests to make test suite more maintainable 
+- Rebased refactored test suite onto main - (Github) 
+- Involved in the debugging process( using logs) to investigate Spawn instances 
+- Navigated at Test Automation Group, rewriting git history for group project 
+- Team worked in either pairing or mob sessions, using driver-navigator pair programming- I navigated during these sessions and shared some thoughts on the issues being tackled 
+- Picked up new coding/testing concepts like contract testing, use of  Singleton Class( for c#) and some Rider’s 
+short cuts
+
+Mthree London - 17th January 2022 - 25th February 2022 (6 weeks Java course)
+
+_Software Engineer Trainee_
+
+- Gained experience using Java, SpringBoot
+- [My badge of completion](https://www.credly.com/badges/39672992-2905-4e02-a658-f123af19c8db/public_url)
+
 
 Moeserv Technical (March 2018 - December 2020)   
 _Agile Business Analyst_
