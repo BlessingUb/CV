@@ -11,10 +11,12 @@ For a complete list of my projects, check my <a href= "https://github.com/Blessi
 | Name                         | Description       | Tech/Tools        | 
 | ---------------------------- | ----------------- | ----------------- |
 | **[GoalTrackerApp](https://github.com/BlessingUb/GoalTrackerApp)** | A solo task on building a goal tracker app | Ruby on Rails(API), React, RSpec, Jest,  CSS, Bootstrap,Postgresql, Testing- RSpec, Jest, Enzymes|
-| **[Acebook](https://github.com/BlessingUb/Acebook)**  | A facebook clone. [Deployed here](https://young-plains-56373.herokuapp.com/)| Ruby on Rails, Capybara, RSpec, Javascript, HTML, CSS |
-| **[Bank test](https://github.com/BlessingUb/bank-tech-test)** | Solo work on a mock tech test simulating a bank in Ruby showcasing my skills such as OOP, TDD.  | Language - Ruby, Testing- RSpec|
 | **[OnlyGift](https://github.com/BlessingUb/Onlygifts)**  | A webapp that allows friends to send token of appreciations(money) to one another with integrated Stripe API for payment| JavaScript, MERN (MongoDB, Express, React, Node), Stripe API.Testing- Jest, Insomnia, cypress, Other Tools Miro, Trello ESLint |
 | **[ChitterApp](https://github.com/BlessingUb/chitter)** | A solo task on creating a twitter clone | Ruby on Rails, Capybara, RSpec, Javascript, HTML, CSS, Testing- RSpec|
+| **[Acebook](https://github.com/BlessingUb/Acebook)**  | A facebook clone. [Deployed here](https://young-plains-56373.herokuapp.com/)| Ruby on Rails, Capybara, RSpec, Javascript, HTML, CSS |
+| **[Bank test](https://github.com/BlessingUb/bank-tech-test)** | Solo work on a mock tech test simulating a bank in Ruby showcasing my skills such as OOP, TDD.  | Language - Ruby, Testing- RSpec|
+
+
 
 
 
