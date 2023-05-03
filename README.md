@@ -21,23 +21,6 @@ For a complete list of my projects, check my <a href= "https://github.com/Blessi
 
 
 ## Relevant Work Experience
-
-Redgate Softwares Cambridge - 25th April 2022 - 28th April 2022 (1 week work experience) 
-
-_Software Engineer_
-
-I attended different meetings that have given me a better insight on Redgate products, how the teams achieve everything to a high standard and learnt about the different roles within the teams and how they carryout some of  their works.  
-- Collaborated with 4 Engineers on the Data Maskers and SQL Data Catalog products 
-- Tech stack used was .NET/C#, ASP.NET, SqlServer, I quickly picked on the language used(c#) as I had used Java before and had an understanding on what the codes were doing.
-- Added a test infrastructure that allow code sharing between two engines 
-- Extracted tests to make test suite more maintainable 
-- Rebased refactored test suite onto main - (Github) 
-- Involved in the debugging process( using logs) to investigate Spawn instances 
-- Navigated at Test Automation Group, rewriting git history for group project 
-- Team worked in either pairing or mob sessions, using driver-navigator pair programming- I navigated during these sessions and shared some thoughts on the issues being tackled 
-- Picked up new coding/testing concepts like contract testing, use of  Singleton Class( for c#) and some Rider’s 
-short cuts
-
 Mthree London - 17th January 2022 - 25th February 2022 (6 weeks Java course)
 
 _Software Engineer Trainee_
@@ -128,10 +111,7 @@ In Makers, during the final project, my team had two weeks to come up with a wor
 
 
 ## Interests
-- Cooking - I enjoy trying out new recipes, recently tried Korean-style lamb chops with spicy sesame cucumber salad from [_tattedchef](https://www.instagram.com/_tattedchef/)
-- I enjoy reading and writing, I run an instagram page where i'm honing my skills on creative writing and story-telling on my life.
-- I play Badminton (belong to a local group in my community)
-- I enjoy Sci-Fi films
+
 
 
 ## Contact
